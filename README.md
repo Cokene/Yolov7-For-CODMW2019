@@ -1,1 +1,1 @@
-# Yolov7 Auto Aim apply in CODMW
+# Yolov7 Auto Aim apply into CODMW
