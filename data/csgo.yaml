@@ -1,0 +1,14 @@
+# CSGO datasets
+
+# temporary has not download command/URL!（optional）
+# download: bash ./scripts/get_cod.sh
+
+# path: ./datasets/csgo # dataset root dir
+train: D:/Yolov7 For CODMW 2019/datasets/csgo/images/train # 202 images
+test: D:/Yolov7 For CODMW 2019/datasets/csgo/images/test # 45 images
+
+# number of classes
+nc: 2
+
+# class names
+names: [ 'head', 'body' ]
